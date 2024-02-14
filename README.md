@@ -1,17 +1,12 @@
 # notepad
-Meet "Notepad" – your go-to text editor with some nifty features to make your writing experience smoother.
-
+This is a simple notepad in c++ 
 Smart Word Suggestions:
-As you type, Notepad gives you handy word suggestions using something called B-trees. It's like having a helpful companion, predicting what you might want to write next.
-
+As you type, Notepad gives you handy word suggestions.
 Space-Saving Encoding:
-When you're done writing, Notepad uses a clever method called Huffman encoding to shrink the file size without losing any of your words. It's like tidying up your room but for your writing.
-
+When you're done writing, Notepad uses a clever method to encode your text.
 Safe and Sound Storage:
-Your work is then saved securely in an encoded file. Think of it as locking up you’re writing in a digital safe – compact and protected.
-
+Your work is then saved securely in an encoded file.
 Easy Decoding for Editing:
-When you want to get back to your writing, Notepad quickly decodes the file. It's like unlocking your safe, but way simpler. Your original text is back, ready for you to continue or make changes.
-
+When you want to get back to your writing, Notepad quickly decodes the file.
 Simple Console Display:
-Everything happens on a clean and simple console display. No confusing stuff – just your words, ready to be read or edited.
+Everything happens on a clean and simple console display.
